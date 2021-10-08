@@ -23,7 +23,7 @@ The following are some of the features of this project:
 ## Language
 The project is written in Java(Spring boot).
 
-[View the document for more information ](Taxi Booking Framework.pdf)
+[View the document for more information ](TaxiBookingFramework.pdf)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
