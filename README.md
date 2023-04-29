@@ -1,5 +1,5 @@
 # Taxi Booking Framework
-
+  
 A taxi dispatching station having a pool of taxis serving customers. The server provides RESTful web services for the pull-based interaction between the client and server for the stateless components.
 This project is RESTful which means that the code on the client side can be changed at any time without affecting the operation of the server, and the code on the server side can be changed without affecting the operation of the client.
 
